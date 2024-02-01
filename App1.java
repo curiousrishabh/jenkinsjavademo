@@ -5,6 +5,7 @@ public class App1{
         System.out.println("Hello Jenkins");
         System.out.println("3rd changes");
         System.out.println("Staq task done");
+        System.out.println("Checking build automation");
     }
 
 }
