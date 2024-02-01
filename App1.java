@@ -6,6 +6,8 @@ public class App1{
         System.out.println("3rd changes");
         System.out.println("Staq task done");
         System.out.println("Checking build automation");
+        System.out.println("Checking build automation");
+        System.out.println("Checking build automation");
     }
 
 }
