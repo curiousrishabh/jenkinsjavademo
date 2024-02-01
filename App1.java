@@ -8,6 +8,7 @@ public class App1{
         System.out.println("Checking build automation");
         System.out.println("Checking build automation");
         System.out.println("Checking build automation");
+        System.out.println("Keeda dusri method ka");
     }
 
 }
